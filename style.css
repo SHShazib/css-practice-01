@@ -24,6 +24,7 @@ h1{
     color: #000;
     box-sizing: border-box;
     border: 5px solid #000;
+    border-radius: 20px 0;
 }
 .small{
     max-width: 200px;
@@ -44,12 +45,12 @@ h1{
 }
 p {
     border: 5px solid red;
-    border-radius: 5px;
+    border-radius: 10px 0;
 }
 .p1,.p2,.p3,.p4,.p5,.p6,.p7,.p8,.p9{
-    border-width: 2px 4px 5px 10px;
+    border-width: 5px 10px 7px 5px;
     border-color: aqua red green black;
-    border-radius: 10px;
+    border-radius: 10px 0;
 }
 .p1 {
     border-style: none;
